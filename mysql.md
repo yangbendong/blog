@@ -253,9 +253,11 @@ echo `date +"%Y年%m月%d日 %H:%M:%S"` Bakup succ! >> $LogFile
 ```
 chmod a+x /home/mysql/binlogbak.sh
 ```
-加入mysqladmin的软连接,/usr/local/mysql57为安装目录
+加入mysqladmin、mysqldump的软连接,/usr/local/mysql57为安装目录
+加软连接是因为定时任务中sh会报错  找不到mysqladmin 
 ```
-ln -s /usr/local/mysql57/bin/mysqladmin /usr/bin 
+ln -s /usr/local/mysql57/bin/mysqladmin /usr/bin
+ln -s /usr/local/mysql57/bin/mysqldump /usr/bin
 ```
 
 ## 全备份

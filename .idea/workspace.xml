@@ -4,6 +4,7 @@
     <list default="true" id="fdbe64e1-f887-4856-ab36-bd974cf7f52a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +16,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Q2EucdlzzdMqaUsBXMTxqegIcm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/BERT/bert-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -45,8 +48,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566960514436</updated>
-      <workItem from="1566960515764" duration="4306000" />
+      <workItem from="1566960515764" duration="9384000" />
+      <workItem from="1567038847955" duration="2085000" />
+      <workItem from="1567125475499" duration="4091000" />
+      <workItem from="1567645447914" duration="3919000" />
+      <workItem from="1567995679449" duration="13950000" />
+      <workItem from="1568076254284" duration="2750000" />
+      <workItem from="1568100122319" duration="1891000" />
+      <workItem from="1568250139529" duration="649000" />
+      <workItem from="1568257060192" duration="3622000" />
+      <workItem from="1569225361712" duration="2406000" />
+      <workItem from="1569288274903" duration="227000" />
     </task>
+    <task id="LOCAL-00001" summary="readme增加mysql说明">
+      <created>1566974356012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566974356012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,10 +78,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme增加mysql说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme增加mysql说明" />
   </component>
 </project>
